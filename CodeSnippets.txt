@@ -1,0 +1,99 @@
+tryt
+
+try {
+    $selected$$end$
+} catch (Exception ex) {
+    LogService.Log(ex);
+}
+return Task.CompletedTask;
+
+propbf
+
+public static readonly BindableProperty $property$Property = BindableProperty.Create(nameof($property$),typeof($type$),typeof($ControlType$));
+
+public $type$ $property$
+{
+  get => ($type$)GetValue($property$Property);
+  set => SetValue($property$Property, value);
+}
+
+tryvm
+
+IsBusy = true;
+try {
+    $selected$$end$
+} catch (Exception ex) {
+    LogService.Log(ex);
+    _commandsBus.RaiseCommand(enCommand.OperationNotCompleted, ex.Message);
+}
+finally
+{
+    IsBusy = false;
+}
+
+propat
+
+public static readonly BindableProperty $property$Property = BindableProperty.CreateAttached(nameof($property$),typeof($type$),typeof($ControlType$));
+
+public $type$ $property$
+{
+  get => ($type$)GetValue($property$Property);
+  set => SetValue($property$Property, value);
+}   
+
+propf
+$type$ _$field$;
+public $type$ $field$
+{
+  get => _$field$;
+  set => SetProperty(ref _$field$, value);
+}
+
+regi
+        #region Services
+        
+        #endregion
+
+        #region Fields
+        
+        #endregion
+
+        #region Properties
+
+        #endregion
+
+        #region Bindable Properties
+
+        #endregion
+
+        #region Ctor
+
+        #endregion
+
+        #region Commands
+
+        #endregion
+
+        #region Commands Execute Handlers
+
+        #endregion
+
+        #region Public Methods
+
+        #endregion
+
+        #region Private Methods
+
+        #endregion
+
+        #region Protected Methods
+
+        #endregion
+
+
+try
+try {
+    $selected$$end$
+} catch ($SystemException$ ex) {
+    LogService.Log(ex);
+}
